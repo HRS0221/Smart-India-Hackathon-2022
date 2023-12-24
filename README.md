@@ -1,7 +1,7 @@
 # Moving Vehicle Registration Plate Detection 
 
 ### Description
-It's a Moving Vehicle Registration Plate Detection Project created in software edition in Ssmart India Hackathon (SIH) 2022. It recognizes the number plate of the moving truck and stores this data in the system for further processing. In this project, we have used deep learning and YOLOv7 algorithm that belongs to the YOLO family. 
+It's a Moving Vehicle Registration Plate Detection Project created in software edition in Smart India Hackathon (SIH) 2022. It recognizes the number plate of the moving truck and stores this data in the system for further processing. In this project, we have used deep learning and YOLOv7 algorithm that belongs to the YOLO family. 
 
 ## Requirements
 Installing Libraries
